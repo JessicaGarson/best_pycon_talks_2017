@@ -30,3 +30,6 @@ Please feel free to submit a PR and contribute to this list
 
 ## One Data Pipeline to Rule Them All by Sam Kitajima Kimbrel
 [Data Pipelines](https://www.youtube.com/watch?v=N6riK1Xtyng)
+
+## Automate AWS With Python by Moshe Zadka 
+[AWS Automation](https://www.youtube.com/watch?v=OnOWpBmhvoA)
