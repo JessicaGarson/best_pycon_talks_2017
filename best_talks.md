@@ -14,7 +14,7 @@ Please feel free to submit a PR and contribute to this list
 [Algorithmic Music Generation](https://www.youtube.com/watch?v=Kk33YgJuDfk)
 
 ## Kelsey Hightower - Keynote
-[Live Deployment]https://www.youtube.com/watch?v=u_iAXzy3xBA&t=295s
+[Live Deployment](https://www.youtube.com/watch?v=u_iAXzy3xBA&t=295s)
 
 ## Hacking Classic Nintendo Games with Python PyCon 2017 by Sam Agnew
 [Hacking Classic Nintendo](https://www.youtube.com/watch?v=v75rNdPukuI)
