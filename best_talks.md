@@ -14,7 +14,7 @@ Please feel free to submit a PR and contribute to this list
 [Algorithmic Music Generation](https://www.youtube.com/watch?v=Kk33YgJuDfk)
 
 ## Kelsey Hightower - Keynote
-[Live Deployment](https://www.youtube.com/watch?v=u_iAXzy3xBA&t=295s)
+[Live Deployment](https://www.youtube.com/watch?v=u_iAXzy3xBA)
 
 ## Hacking Classic Nintendo Games with Python PyCon 2017 by Sam Agnew
 [Hacking Classic Nintendo](https://www.youtube.com/watch?v=v75rNdPukuI)
@@ -26,7 +26,7 @@ Please feel free to submit a PR and contribute to this list
 [How to Hack Cars Using Python](https://www.youtube.com/watch?v=3bZNhMcv4Y8)
 
 ## Asynchronous Python for the Complete Beginner by Miguel Grinberg
-[Asynchronous Python for the Complete Beginner](https://www.youtube.com/watch?v=iG6fr81xHKA&t=23s)
+[Asynchronous Python for the Complete Beginner](https://www.youtube.com/watch?v=iG6fr81xHKA)
 
 ## One Data Pipeline to Rule Them All by Sam Kitajima Kimbrel
-[Data Pipelines](https://www.youtube.com/watch?v=N6riK1Xtyng&t=293s)
+[Data Pipelines](https://www.youtube.com/watch?v=N6riK1Xtyng)
